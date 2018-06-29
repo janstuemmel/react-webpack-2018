@@ -6,6 +6,11 @@ a minimal example on how to use react in 2018
 
 * Webpack, babel
 * Hot reload
+* Style loading
+
+TODO:
+
+* jest testing (with css)
 
 **Whats not included?**
 
